@@ -1,0 +1,65 @@
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.csprojResolveAssemblyReference.cache
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.Cache
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+r:\users\serg\documents\visual studio 2015\Projects\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
+E:\0_dima\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
+E:\0_dima\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+E:\0_dima\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.csprojResolveAssemblyReference.cache
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+E:\0_dima\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.Cache
+H:\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
+H:\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+H:\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.csprojResolveAssemblyReference.cache
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+H:\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+C:\Users\User\Downloads\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.Cache
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\mscorlib.dll
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\System.Net.Http.dll
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\System.Net.Http.xml
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\ru\mscorlib.resources.dll
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\ru\System.Net.Http.resources.dll
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\normidna.nlp
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\normnfc.nlp
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\normnfd.nlp
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\normnfkc.nlp
+E:\Pleyada\Pleyada\Pleyada\bin\Debug\normnfkd.nlp
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.csprojResolveAssemblyReference.cache
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+E:\Pleyada\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.Cache
+F:\Pleyada\Pleyada\bin\Debug\Pleyada.exe.config
+F:\Pleyada\Pleyada\bin\Debug\Pleyada.exe
+F:\Pleyada\Pleyada\bin\Debug\Pleyada.pdb
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.csprojAssemblyReference.cache
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.Form1.resources
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.Properties.Resources.resources
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.GenerateResource.cache
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.csproj.CoreCompileInputs.cache
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.exe
+F:\Pleyada\Pleyada\obj\Debug\Pleyada.pdb
